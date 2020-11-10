@@ -8,13 +8,11 @@ export default function App() {
       
       <Text> Hello World from Group 11 Member: Martins Kreslins!</Text>
       <Text>This is my Martins Kreslins first React Native application!</Text>
-      <Text> No idea why it works. But it works!</Text>
-
         <Image
-          source= {{uri: "https://pbs.twimg.com/profile_images/1113929952406061056/QZdZjFUw_400x400.jpg"}}
+          source= {require('./peepoHappi.jpg')}
           style= {{width:200, height:200}}
         />
-        
+        <Text> I am happy that this works!</Text>
     </View>
   );
 }
