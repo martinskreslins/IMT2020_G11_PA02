@@ -1,0 +1,12 @@
+{
+  "name": "IMTPA2",
+  "displayName": "IMTPA2",
+  "expo": {
+    "name": "IMTPA2",
+    "slug": "IMTPA2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
